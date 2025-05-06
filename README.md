@@ -22,4 +22,4 @@
 ## Installation 📦
 
 ```bash
-pip install fcolor
+pip install fstrcolor
