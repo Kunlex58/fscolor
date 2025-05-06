@@ -27,7 +27,7 @@ pip install fscolor
 
 ## Use Cases
 
-Examples - See [Jupyter Notebook](https://github.com/Kunlex58/fstrcolor/blob/main/LICENSE) for various use cases.
+Examples - See [Jupyter Notebook](https://github.com/Kunlex58/fscolor/blob/main/fscolor.ipynb) for various use cases.
 
 
 ## Compatibility Notes ⚠️
