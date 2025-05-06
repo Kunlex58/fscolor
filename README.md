@@ -2,7 +2,7 @@
 
 [![PyPI Version](https://img.shields.io/pypi/v/fcolor.svg)](https://pypi.org/project/fscolor/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/fcolor.svg)](https://pypi.org/project/fscolor/)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Kunlex58/fscolor/blob/main/LICENSE)
 
 
 **fscolor** is a lightweight Python package that brings effortless color formatting to f-strings using ANSI escape codes. Designed for simplicity and readability, it enables developers to create vibrant console output with minimal code changes.
