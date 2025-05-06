@@ -49,7 +49,7 @@ Examples - See [Jupyter Notebook](https://github.com/Kunlex58/fscolor/blob/main/
 
 ## Contributing 🤝
 
-Contributions welcome! Please see our Contribution Guidelines for details.
+Contributions welcome! Please check later for details.
 
 ## License 📄
 
