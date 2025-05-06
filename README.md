@@ -23,6 +23,7 @@
 
 ```bash
 pip install fstrcolor
+```
 
 ## Compatibility Notes ⚠️
 
