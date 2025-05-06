@@ -24,24 +24,27 @@
 ```bash
 pip install fstrcolor
 
-**## Compatibility Notes** ⚠️
-Requires terminal supporting ANSI escape codes
+## Compatibility Notes ⚠️
 
-Colors may appear different based on terminal theme
 
-Not recommended for file output or non-TTY devices
+- Requires terminal supporting ANSI escape codes  
+- Colors may appear different based on terminal theme  
 
-**## Roadmap** 🗺️
-- 256-color support
+- Not recommended for file output or non-TTY devices  
 
-- Background colors
+## Roadmap 🗺️
 
-- Text styles (bold, italic, underline)
 
-- Windows compatibility layer
+- 256-color support  
+- Background colors  
 
-**## Contributing** 🤝
+- Text styles (bold, italic, underline)  
+- Windows compatibility layer  
+
+## Contributing 🤝
+
 Contributions welcome! Please see our Contribution Guidelines for details.
 
-**## License** 📄
+## License 📄
+
 MIT License - See LICENSE for details.
