@@ -2,7 +2,7 @@
 
 [![PyPI Version](https://img.shields.io/pypi/v/fcolor.svg)](https://pypi.org/project/fstrcolor/)
 [![Python Versions](https://img.shields.io/pypi/pyversions/fcolor.svg)](https://pypi.org/project/fstrcolor/)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Kunlex58/fstrcolor/blob/main/LICENSE)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
 **fstrcolor** is a lightweight Python package that brings effortless color formatting to f-strings using ANSI escape codes. Designed for simplicity and readability, it enables developers to create vibrant console output with minimal code changes.
