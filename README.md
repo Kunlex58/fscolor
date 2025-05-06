@@ -48,4 +48,4 @@ Contributions welcome! Please see our Contribution Guidelines for details.
 
 ## License 📄
 
-MIT License - See LICENSE for details.
+MIT License - See [LICENSE](https://github.com/Kunlex58/fstrcolor/blob/main/LICENSE) for details.
