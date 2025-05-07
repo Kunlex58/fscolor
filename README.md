@@ -1,7 +1,7 @@
 # 🌈 fscolor - F-String Color Formatting for Python
 
 [![PyPI Version](https://img.shields.io/pypi/v/fscolor.svg)](https://pypi.org/project/fscolor/)
-![Python Versions](https://img.shields.io/pypi/pyversions/fscolor.svg)
+[![Python Versions](https://img.shields.io/pypi/pyversions/fscolor.svg)](https://pypi.org/project/fscolor/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Kunlex58/fscolor/blob/main/LICENSE)
 
 
